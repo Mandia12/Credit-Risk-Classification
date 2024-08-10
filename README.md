@@ -28,23 +28,23 @@ The results of the logistic regression model are summarized below:
 
 * Accuracy: 99.18%
 * Precision:
-> * Class 0 (Healthy Loans): 1.00
-> * Class 1 (High-Risk Loans): 0.85
+  * Class 0 (Healthy Loans): 1.00
+  * Class 1 (High-Risk Loans): 0.85
 * Recall:
-> * Class 0 (Healthy Loans): 0.99
-> * Class 1 (High-Risk Loans): 0.91
+  * Class 0 (Healthy Loans): 0.99
+  * Class 1 (High-Risk Loans): 0.91
 * F1 Score:
-> * Class 0 (Healthy Loans): 1.00
-> * Class 1 (High-Risk Loans): 0.88
+  * Class 0 (Healthy Loans): 1.00
+  * Class 1 (High-Risk Loans): 0.88
 * Specificity: 99.46%
 * Macro Avg:
-> * Precision: 0.92
-> * Recall: 0.95
-> * F1 Score: 0.94
+  * Precision: 0.92
+  * Recall: 0.95
+  * F1 Score: 0.94
 * Weighted Avg:
-> * Precision: 0.99
-> * Recall: 0.99
-> * F1 Score: 0.99
+  * Precision: 0.99
+  * Recall: 0.99
+  * F1 Score: 0.99
 
 ## Summary
 
